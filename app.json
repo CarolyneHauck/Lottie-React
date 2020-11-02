@@ -1,0 +1,12 @@
+{
+  "name": "Lottie-React",
+  "displayName": "Lottie-React",
+  "expo": {
+    "name": "Lottie-React",
+    "slug": "Lottie-React",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
